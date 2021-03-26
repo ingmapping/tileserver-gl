@@ -7,7 +7,7 @@
 
 Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 
-Note: I made this repository because I had problems with labels being cut off at tile edges when serving raster tiles with the newer klokantech/tileserver-gl docker images.
+Note: I made this repository because I had problems with labels being cut off at tile edges when serving raster tiles with the newer klokantech/tileserver-gl docker images. Thanks for all the good work Klokantech!
 
 ## Get Started
 
